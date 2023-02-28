@@ -5,7 +5,7 @@
  * @str: input
  * Return: print
  */
-coid puts2(char *str)
+void puts2(char *str)
 {
 	int i = 0;
 
